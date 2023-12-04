@@ -3,7 +3,11 @@ Hi, I'm Harry Henao!
 	<a href="https://github.com/Darknesx324" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+	
 </h1>
+
+[![harryhenao-high-resolution-logo-3.png](https://i.postimg.cc/43Lgjdqr/harryhenao-high-resolution-logo-3.png)](https://postimg.cc/06wFw88f)
+
 <p align="center">
 	<a href="https://github.com/Darknesx324">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
